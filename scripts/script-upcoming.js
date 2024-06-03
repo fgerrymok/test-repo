@@ -10,7 +10,7 @@ const options = {
 
     Authorization:
       // Bearer "Access Token Auth" that you got
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MjRlMWI5MDlhMGQxMjRjNmRkODg0OTRhMWQ5OWQzYyIsInN1YiI6IjY2NTlmOTY3ZGM2NTk2Yzk4ODYwYTM5ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.3WhGyTIulHGoIUeqPzRtpd6A75Wki1g_t70lp7BCbtg",
+      "Bearer put your Access Token Auth here",
   },
 };
 
